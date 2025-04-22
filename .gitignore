@@ -35,6 +35,3 @@ wheels/
 # Input files
 #*.docx оставляю для быстрой проверки
 
-# Output files
-output/
-*.xlsx 
